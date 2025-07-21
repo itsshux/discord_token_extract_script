@@ -1,3 +1,6 @@
+# dumbed the fk down version of my trollbot, just a template
+# request full troll version if interested
+
 import discord
 from discord.ext import commands
 from openai import OpenAI
